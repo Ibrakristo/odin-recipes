@@ -1,2 +1,2 @@
 # odin-recipes
-This is an odin project which uses html and git skills
+This is an odin project which uses some html and git skills
